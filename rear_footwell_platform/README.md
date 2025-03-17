@@ -1,6 +1,6 @@
 # Rear Footwell Platform
 
-Measured to build a platform approximately level with the rear seats to make a more comfortable area for a large dog.
+Solid platform approximately level with the rear seats to make a more comfortable area for a large dog.
 
 <img src="images/initial_design.png" width="70%" />
 
