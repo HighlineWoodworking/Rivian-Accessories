@@ -2,7 +2,7 @@
 
 Measured to build a platform approximately level with the rear seats to make a more comfortable area for a large dog.
 
-<img src="images/initial_design.png" width="60%" />
+<img src="images/initial_design.png" width="70%" />
 Initial Design
 
 ## Dimensions Between Front and Rear Seats
@@ -14,3 +14,7 @@ Initial Design
 * 14" height at front of rear seat
 * 53-1/2" edge-to-edge across width of vehicle at outer edge of rear mats
 * 21" width of rear seat footwell from outer edge of mat
+
+## Files
+
+* initial_design.skp = SketchUp initial design file
