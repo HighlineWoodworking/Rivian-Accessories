@@ -3,7 +3,6 @@
 Measured to build a platform approximately level with the rear seats to make a more comfortable area for a large dog.
 
 <img src="images/initial_design.png" width="70%" />
-Initial Design
 
 ## Dimensions Between Front and Rear Seats
 
@@ -17,4 +16,4 @@ Initial Design
 
 ## Files
 
-* initial_design.skp = SketchUp initial design file
+* initial_design.skp = [SketchUp](https://www.sketchup.com/en/plans-and-pricing/sketchup-free) initial design file
