@@ -2,7 +2,8 @@
 
 Measured to build a platform approximately level with the rear seats to make a more comfortable area for a large dog.
 
-<a href="rear_footwell_platform/README.md"><img src="rear_footwell_platform/images/initial_design.png" width="50%" /></a>
+<img src="images/initial_design.png" width="60%" />
+Initial Design
 
 ## Dimensions Between Front and Rear Seats
 
