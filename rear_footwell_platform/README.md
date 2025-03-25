@@ -45,3 +45,4 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 * Increase slot depths by 1/16" so connectors seat fully
 * Add connector pins to CNC file(s)
 * Chamfer more edges
+* Think about bottoms
