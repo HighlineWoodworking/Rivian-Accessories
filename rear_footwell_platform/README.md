@@ -2,7 +2,7 @@
 
 Solid platform approximately level with the rear seats to make a more comfortable area for a large dog.
 
-<img src="images/initial_design.png" width="70%" />
+<img src="images/v1_installed.png" width="70%" />
 
 ## Dimensions Between Front and Rear Seats
 
