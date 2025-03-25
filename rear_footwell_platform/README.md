@@ -27,3 +27,16 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 * tops.art = top of box panels that form the platform
 
 .art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) CNC design and machining
+
+## V1 Installed
+
+<img src="images/v1_top_off.png" width="70%" />
+
+<img src="images/v1_connectors.png" width="70%" />
+
+<img src="images/v1_hd_foam.png" width="70%" />
+
+## Changes
+
+* Remove upper inset from sides with slots so the connectors are flush with and support the tops
+* Increase slot depths by 1/16" so connectors seat fully
