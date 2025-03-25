@@ -30,6 +30,9 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 
 ## V1 Installed
 
+* 1/2" MDF
+* 1/2" Pipe Insulation to protect seats
+
 <img src="images/v1_top_off.png" width="70%" />
 
 <img src="images/v1_connectors.png" width="70%" />
@@ -40,3 +43,4 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 
 * Remove upper inset from sides with slots so the connectors are flush with and support the tops
 * Increase slot depths by 1/16" so connectors seat fully
+* Add connector pins to CNC file(s)
