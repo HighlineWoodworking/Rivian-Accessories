@@ -8,7 +8,7 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 
 * 14-3/4" front seat all forward, back of front seat to front of rear seat
 * 5" front seat all back, back of front seat to front of rear seat
-* 9" driver side my setting, back of front seat to front of rear seat
+* 9" driver side example setting, back of front seat to front of rear seat
 * 7" center console, back of consle to front of rear seat
 * 14" height at front of rear seat
 * 53-1/2" edge-to-edge across width of vehicle at outer edge of rear mats
