@@ -16,10 +16,10 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 
 ## Files
 
-* connectors.art
+* connectors.art = pieces to join the two boxes
 * initial_design.skp = [SketchUp](https://www.sketchup.com/en/plans-and-pricing/sketchup-free) initial design file
-* long_sides.art
-* short_sides.art
-* tops.art =
+* long_sides.art = long box sides
+* short_sides.art = short box sides
+* tops.art = top of box panels that form the platform
 
-.art files = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) CNC files
+.art = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) CNC design and machining
