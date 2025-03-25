@@ -16,4 +16,10 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 
 ## Files
 
+* connectors.art
 * initial_design.skp = [SketchUp](https://www.sketchup.com/en/plans-and-pricing/sketchup-free) initial design file
+* long_sides.art
+* short_sides.art
+* tops.art =
+
+.art files = [Carveco Maker](https://carveco.com/carveco-software-range/carveco-maker/) CNC files
