@@ -1,7 +1,7 @@
 # Rivian-Accessories
 Accessories for a [Rivian R1T](https://rivian.com/r1t).
 
-<a href="rear_footwell_platform/README.md"><img src="rear_footwell_platform/images/initial_design.png" width="50%" /></a>
+<a href="rear_footwell_platform/README.md"><img src="rear_footwell_platform/images/v1_installed.png" width="50%" /></a>
 
 [Rear Footwell Platform](rear_footwell_platform/README.md)
 
