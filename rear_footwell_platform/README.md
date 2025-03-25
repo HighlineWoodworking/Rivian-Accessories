@@ -14,6 +14,10 @@ Solid platform approximately level with the rear seats to make a more comfortabl
 * 53-1/2" edge-to-edge across width of vehicle at outer edge of rear mats
 * 21" width of rear seat footwell from outer edge of mat
 
+## Design Dimensions
+
+<img src="images/initial_design.png" width="70%" />
+
 ## Files
 
 * connectors.art = pieces to join the two boxes
